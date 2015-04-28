@@ -1,0 +1,8 @@
+
+The features MongoDB missing:
+	MongoDB doens't support Join
+	MongoDB doens't support Transactions
+	
+Client software in Python:
+	bottle
+	pymongo
